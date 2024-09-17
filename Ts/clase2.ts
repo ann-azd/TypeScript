@@ -77,6 +77,7 @@ const carrito1: carrito = {
     { id: 34, nombre: "cosa", precio: 43 },
     { id: 34, nombre: "cubo", precio: 43 ,marca:'rubiks'},
   ],
+  
 };
 
 //Una ventaja por encima de los tipos es que permite extender
